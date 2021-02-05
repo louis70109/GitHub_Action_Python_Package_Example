@@ -49,8 +49,7 @@ setup(
     cmdclass={'test': PyTest},
     python_requires='!=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*',
     project_urls={
-        'Bug Reports': 'https://github.com/louis70109/lotify/issues',
-        'Source': 'https://github.com/louis70109/lotify',
+        'Source': 'https://github.com/louis70109/GitHub_Action_Python_Example',
     },
     classifiers=[
         "Development Status :: 5 - Production/Stable",
