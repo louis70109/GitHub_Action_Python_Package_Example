@@ -8,7 +8,7 @@ This is an example for auto publish Pypi package and test.
 ## Install package
 
 ```
-pip install GitHub-Action-Python-Example
+pip install GitHubActionPythonExample
 ```
 
 # License
