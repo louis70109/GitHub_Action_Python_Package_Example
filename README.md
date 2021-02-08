@@ -1,14 +1,14 @@
-# GitHub-Action-Python-Example
+# GitHub Action Python Example
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/louis70109/line-notify#contributing)
 
-This is an example for auto publish Pypi package and test.
+This is an example for an auto publish Pypi package and test.
 
 ## Install package
 
 ```
-pip install GitHubActionPythonExample
+pip install GitHub_Action_Python_Example
 ```
 
 # License
