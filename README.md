@@ -3,9 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/louis70109/line-notify#contributing)
 
-This is an example for an auto publish PyPi package and test.
+This is a GitHub Action example for an auto publish PyPi package and test automation.
 
-## Setup PyPi keys
+## Setup PyPi property
 
 - [Go PyPi](https://pypi.org/) ➡️ Your project ➡️ Account Setting.
 
