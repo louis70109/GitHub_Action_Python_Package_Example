@@ -22,7 +22,15 @@ This is a GitHub Action example for an auto publish PyPi package and test automa
 
 ![](https://nijialin.com/images/2021/action/token3.png)
 
+- Modify `GitHub_Action_Python_Example/__version__.py` version number(e.g. 1.0.2).
+
+- Click and draft `Release` note.
+
+![](https://nijialin.com/images/2021/action/release1.png)
+
 - `.github/workflows/publish.yml` will help you to publish package to PyPi.
+
+![](https://nijialin.com/images/2021/action/release4.png)
 
 ## Install package
 
