@@ -36,7 +36,7 @@ jobs:
         run: |
           tox
       - name: LINE Notify Message
-        uses: louis70109/line-notify-action@v0.1.0
+        uses: louis70109/line-notify-action@v0.2.0
         with:
           message: |
             The ${{ github.event_name }} event triggered final step.
