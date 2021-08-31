@@ -7,7 +7,7 @@ This is a GitHub Action example for an auto publish PyPi package and test automa
 
 ## Setup PyPi property
 
-- [Go PyPi](https://pypi.org/) ➡️ Your project ➡️ Account Setting.
+- Go to [PyPi](https://pypi.org/) ➡️ Your project ➡️ Account Setting.
 
 ![](https://nijialin.com/images/2021/action/token1.png)
 
